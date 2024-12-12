@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cpbp39ikw-java-springboot-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/cpbp39ikw-java-springboot
